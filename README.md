@@ -1,0 +1,2 @@
+# zeroairdrop
+for tea testnet
